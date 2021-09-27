@@ -1,0 +1,10 @@
+- https://dev.to/proticm/styling-html-checkboxes-is-super-easy-302o
+- https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
+- https://codepen.io/bbodine1/pen/novBm
+- https://freefrontend.com/css-checkboxes/
+- https://css-tricks.com/the-checkbox-hack/
+- https://dev.to/kallmanation/styling-a-checkbox-with-only-css-3o3p
+- https://www.appitventures.com/blog/styling-checkbox-css-tips
+- https://www.appitventures.com/services/web-app-development
+- https://www.appitventures.com/services/mobile-app-development
+

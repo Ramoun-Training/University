@@ -1,0 +1,45 @@
+arguments affects how functions execute.
+(translate -> "flaw" , "halts")
+
+types of errors in python:
+	
+
+    Syntax errors: Your program does not run because your code breaks the language’s syntax rules, which tell how to arrange the code.
+
+    Runtime errors: Your program starts to run, but halts due to an error.
+
+    Logic errors: Your program runs, but it doesn’t do what is expected.
+
+*print debugging, detailed in Chapter 15, can be used for syntax and runtime errors
+
+Common Errors
+=============
+The following list of common errors can help you identify and prevent bugs in your scripts.
+
+1.Misspelling: Spelling mistakes are the most common error across programming languages. When using variables, make sure to use the same name you gave at assignment. Likewise, check the spelling of EarSketch API functions and sound constants.
+
+
+2.C-ase sensitivity: Most words used in programming are case-sensitive. Pay attention to lowercase and uppercase letters used in variable names and EarSketch API functions.
+
+
+3.Parentheses: Forgetting an opening or closing parenthesis where needed will cause a syntax error. When using functions like fitMedia() (or any other EarSketch API function), make sure your arguments are enclosed by parentheses on both ends.
+
+
+4.Initializing variables: Do not forget to initialize, or assign values to, variables before you use them. You usually do this at the top of your script.
+
+
+5.Script setup: EarSketch adds setup functions to a new script automatically, but you might accidentally delete from earsketch import *, init(), setTempo(), or finish(). Make sure these functions appear in every script.
+
+
+6.Comments: Improper commenting will cause a syntax error. Remember that Python comments must start with a # symbol.
+
+
+music genres:
+=============
+-EDM
+-house
+-techno
+-trance
+-electronic
+-dance
+...

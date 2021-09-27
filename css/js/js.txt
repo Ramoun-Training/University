@@ -1,0 +1,11 @@
+https://documentation.solarwinds.com/en/Success_Center/loggly/Content/admin/javascript.htm?cshid=loggly_javascript
+https://zellwk.com/blog/frontend-login-system/
+https://www.codementor.io/@robertwozniak/form-validation-system-in-vanilla-javascript-oldy425jc
+https://hallojs.org/
+https://ourcodeworld.com/articles/read/396/how-to-convert-markdown-to-html-in-javascript-using-remarkable
+http://showdownjs.com/
+https://www.bigomega.dev/markdown-parser
+https://marked.js.org/
+https://css-tricks.com/choosing-right-markdown-parser/
+https://stackoverflow.com/questions/1319657/javascript-to-convert-markdown-textile-to-html-and-ideally-back-to-markdown-t
+https://www.npmjs.com/search?q=markdown%20to%20html

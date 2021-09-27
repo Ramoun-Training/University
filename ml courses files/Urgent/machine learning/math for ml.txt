@@ -1,0 +1,5 @@
+YOUTBE:
+-------
+- math for ml on youtube
+- search by topic(ex: linear regression) - https://www.youtube.com/results?search_query=linear+regression
+- Learn linear algebra, Statistics, and probability (on free time) using these channels

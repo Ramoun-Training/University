@@ -1,0 +1,7 @@
+- https://www.javascripttutorial.net/javascript-dom/javascript-appendchild/
+- https://www.google.com/search?q=how+to+add+a+child+to+a+parent+element+js&oq=how+to+add+a+child+to+a+parent+element+js&aqs=chrome..69i57j33l2.16160j0j1&sourceid=chrome&ie=UTF-8
+- https://ultimatecourses.com/blog/attaching-event-handlers-to-dynamically-created-javascript-elements
+- https://eloquentjavascript.net/15_event.html
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
+- https://javascript.info/introduction-browser-events
+- https://javascript.info/event-delegation

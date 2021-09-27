@@ -1,0 +1,51 @@
+Tools:
+------
+1- python
+2- Anaconda
+
+curruiculum:
+------------
+*part 1:
+   python basics(syntax...etc)
+   numpy crash course
+   matplotlib cc
+   pandas cc
+   hand on labs
+
+*part 2:python data treatement cc
+   how to load ml data
+   understand you rdata with descriptive statistics
+   understand your data with visualiztion
+   prepare your data for ml
+
+*part 3:ml cc
+   feature selection for ml
+   evaluate the performance of ml alorithms with resampling
+   ml algorithms performance metrices
+   classification alorithms
+   regression algorithms
+   compare ml algorithms
+   automate ml workflows with pipelines
+   save and load ml models
+   classification project
+   regresssion project
+
+*part 4:dl stp by stp
+   intro to theano
+   intro to tf
+   intro to keras (interface for tf and theano)
+   proj:develop large models on gpus cheaply on the cloud...aias
+   crash course in multilayer perceptrons
+   develop your first neural network with keras
+   evaluate the performance of deep learning models
+   use keras models with sickit learn for general ml
+   project: multiclass classification of flower species
+   project: binary classification of sonar returns
+   project: regression of boston house prices
+   save your models for later with serialization
+   keep the best models during training with checkpointing
+   understand model behavior during training by potting history
+   reduce overfitting with dropout regularization 
+   convolutional neural networks
+   project: handwritten digit recognition
+   project: object recognition in photographs
