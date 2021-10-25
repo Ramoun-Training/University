@@ -1,10 +1,12 @@
-# Electrical Engineering 
+c# Electrical Engineering 
 
 EE Class Notes by: [Omar Ramoun](https://ramoun.me)
 
 ## Important Links
 
 - [What is Charge?](https://www.youtube.com/watch?v=uNGHufsPZgE)
+- [What is Voltage?](https://www.youtube.com/watch?v=z8qfhFXjsrw)
+- [photoelectric](https://www.youtube.com/watch?v=oYnp0WZDhYQ)
 - [static electricity](https://www.youtube.com/watch?v=W9cYs7M7DbI)
 - [atomic colliders](https://youtu.be/6IeeshkVATY?t=206)
 - [What is Volt?]()
